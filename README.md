@@ -17,7 +17,7 @@ Criação de um projeto durante estudos realizados sobre programação de comput
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="" width="100%">
+  <img alt="Projeto Cordel Moderno" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
