@@ -31,7 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto realizado para desenvolvimento e aprimoramento das tecnologias de programação HTML5 e CSS3, onde se encontra uma  poesia que descreve muito bem a tecnologia dos dias atuais, de nome Cordel Moderno escrita por Milton Duarte.
 - [Acesse o projeto finalizado, online]( https://giovannigoulart.github.io/Projeto-Cordel)
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 
 
