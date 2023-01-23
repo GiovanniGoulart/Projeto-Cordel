@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Cordel Moderno </h1>
 
 <p align="center">
 Criação de um projeto durante estudos realizados sobre programação de computadores. 
